@@ -18,7 +18,7 @@ isClose : 'true'
 }
 ````
 
-##Screenshot
+## Screenshot
 ![Screenshot_896](https://user-images.githubusercontent.com/61135648/99094895-ff4fa100-2606-11eb-883e-49eb013c9a6c.png)
 ![Screenshot_895](https://user-images.githubusercontent.com/61135648/99094900-01196480-2607-11eb-8c42-c0d424c9de5b.png)
 
