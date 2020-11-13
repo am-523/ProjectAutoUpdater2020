@@ -8,7 +8,7 @@
 Upload in pastebin
 
 
-````JSON
+````xml
 {
 version : '1.2',
 downloadlink : 'https://www.yourwebsitedowsnload.com/fileupdate.zip',
